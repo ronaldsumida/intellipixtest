@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8HllGmrF3SdPyez9fVPPuoPx0xVXycTBIlWePaXavPddoEKWj4XrvjxjUN31ZpQsdlmJyOiV6KP8KAkpmh6EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Wintellect\\Courses\\Microsoft\\SLG\\Irvine\\Intellipix-main\\Intellipix\\Intellipix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.29\\microsoft.netcore.app.runtime.win-x86.3.1.29.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.29\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.29.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.29\\microsoft.aspnetcore.app.runtime.win-x86.3.1.29.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.29\\microsoft.netcore.app.host.win-x86.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

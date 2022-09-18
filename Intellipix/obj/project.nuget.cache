@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jB32hT97LnIumvNM9c0k7mqDhRNAv1hLeku3X6aa7gdKUP/Lr67eGBfVoBsRq0x32fwSp+2XPzfK+aHOZYhc5g==",
+  "success": true,
+  "projectFilePath": "C:\\Wintellect\\Courses\\Microsoft\\SLG\\Irvine\\Intellipix-main\\Intellipix\\Intellipix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
